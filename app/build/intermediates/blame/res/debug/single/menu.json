@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zachhalvorsen/workspace/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/zachhalvorsen/workspace/SuperAsteroids/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/zachhalvorsen/workspace/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/zachhalvorsen/workspace/SuperAsteroids/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/zachhalvorsen/workspace/SuperAsteroids/app/build/intermediates/res/merged/debug/menu/menu_import.xml",
+        "source": "/Users/zachhalvorsen/workspace/SuperAsteroids/app/src/main/res/menu/menu_import.xml"
+    }
+]
